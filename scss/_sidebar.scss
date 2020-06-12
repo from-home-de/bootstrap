@@ -1,0 +1,17 @@
+.sidebar-dark {
+  .nav-pills {
+    .nav-link {
+      color: $navbar-dark-color;
+      background-color: transparent;
+      @include hover() {
+        color: $navbar-dark-hover-color;
+        background-color: $gray-800;
+      }
+    }
+    .nav-link.active,
+    .show > .nav-link {
+      color: $navbar-dark-active-color;
+      background-color: $gray-800;
+    }
+  }
+}
