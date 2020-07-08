@@ -5,7 +5,7 @@
 
 // Color system
 
-$white:    #f1eee6 !default;
+$white: #fefefe !default;
 $gray-100: #f8f9fa !default;
 $gray-200: #e9ecef !default;
 $gray-300: #dee2e6 !default;
@@ -171,7 +171,7 @@ $sizes: map-merge(
 //
 // Settings for the `<body>` element.
 
-$body-bg:                   $white !default;
+$body-bg:                   #f1eee6 !default;
 $body-color:                $gray-900 !default;
 
 
@@ -842,7 +842,7 @@ $card-cap-bg:                       rgba($black, .03) !default;
 $card-cap-color:                    null !default;
 $card-height:                       null !default;
 $card-color:                        null !default;
-$card-bg:                           $white !default;
+$card-bg:                           $body-bg !default;
 
 $card-img-overlay-padding:          1.25rem !default;
 

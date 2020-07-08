@@ -43,11 +43,11 @@
 .bd-navbar .navbar-nav .nav-link {
   padding-right: .5rem;
   padding-left: .5rem;
-  color: rgba(241, 238, 230, 0.85);
+  color: rgba(254, 254, 254, 0.85);
 }
 
 .bd-navbar .navbar-nav .nav-link.active, .bd-navbar .navbar-nav .nav-link:hover {
-  color: #f1eee6;
+  color: #fefefe;
   background-color: transparent;
 }
 
@@ -359,14 +359,14 @@
 .skippy {
   display: block;
   padding: 1em;
-  color: #f1eee6;
+  color: #fefefe;
   text-align: center;
   background-color: #563d7c;
   outline: 0;
 }
 
 .skippy:hover {
-  color: #f1eee6;
+  color: #fefefe;
 }
 
 .skippy-text {
@@ -939,13 +939,13 @@
 
 .btn-bd-primary {
   font-weight: 600;
-  color: #f1eee6;
+  color: #fefefe;
   background-color: #7952b3;
   border-color: #7952b3;
 }
 
 .btn-bd-primary:hover, .btn-bd-primary:active {
-  color: #f1eee6;
+  color: #fefefe;
   background-color: #614092;
   border-color: #614092;
 }
@@ -1033,7 +1033,7 @@
 }
 
 .bd-brand-logos .inverse {
-  color: #f1eee6;
+  color: #fefefe;
   background-color: #563d7c;
 }
 
@@ -1043,7 +1043,7 @@
 }
 
 .bd-brand-item + .bd-brand-item {
-  border-top: 1px solid #f1eee6;
+  border-top: 1px solid #fefefe;
 }
 
 .bd-brand-item h1,
@@ -1059,7 +1059,7 @@
   }
   .bd-brand-item + .bd-brand-item {
     border-top: 0;
-    border-left: 1px solid #f1eee6;
+    border-left: 1px solid #fefefe;
   }
   .bd-brand-item h1 {
     font-size: 4rem;
@@ -1109,27 +1109,27 @@
 }
 
 .swatch-blue {
-  color: #f1eee6;
+  color: #fefefe;
   background-color: #2980b9;
 }
 
 .swatch-indigo {
-  color: #f1eee6;
+  color: #fefefe;
   background-color: #6610f2;
 }
 
 .swatch-purple {
-  color: #f1eee6;
+  color: #fefefe;
   background-color: #6f42c1;
 }
 
 .swatch-pink {
-  color: #f1eee6;
+  color: #fefefe;
   background-color: #e83e8c;
 }
 
 .swatch-red {
-  color: #f1eee6;
+  color: #fefefe;
   background-color: #d82d28;
 }
 
@@ -1144,32 +1144,32 @@
 }
 
 .swatch-green {
-  color: #f1eee6;
+  color: #fefefe;
   background-color: #393;
 }
 
 .swatch-teal {
-  color: #f1eee6;
+  color: #fefefe;
   background-color: #20c997;
 }
 
 .swatch-cyan {
-  color: #f1eee6;
+  color: #fefefe;
   background-color: #2980b9;
 }
 
 .swatch-white {
   color: #212529;
-  background-color: #f1eee6;
+  background-color: #fefefe;
 }
 
 .swatch-gray {
-  color: #f1eee6;
+  color: #fefefe;
   background-color: #6c757d;
 }
 
 .swatch-gray-dark {
-  color: #f1eee6;
+  color: #fefefe;
   background-color: #343a40;
 }
 
@@ -1199,22 +1199,22 @@
 }
 
 .swatch-600 {
-  color: #f1eee6;
+  color: #fefefe;
   background-color: #6c757d;
 }
 
 .swatch-700 {
-  color: #f1eee6;
+  color: #fefefe;
   background-color: #495057;
 }
 
 .swatch-800 {
-  color: #f1eee6;
+  color: #fefefe;
   background-color: #343a40;
 }
 
 .swatch-900 {
-  color: #f1eee6;
+  color: #fefefe;
   background-color: #212529;
 }
 
@@ -1248,7 +1248,7 @@
 }
 
 .btn-clipboard:hover {
-  color: #f1eee6;
+  color: #fefefe;
   background-color: #027de7;
 }
 
@@ -1553,7 +1553,7 @@
   min-width: 0 !important;
   max-width: none !important;
   padding: .75rem 0 !important;
-  background-color: #f1eee6;
+  background-color: #fefefe;
   background-clip: padding-box;
   border: 1px solid rgba(0, 0, 0, 0.1);
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.175);
